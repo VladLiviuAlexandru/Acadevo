@@ -1,6 +1,6 @@
 # Acadevo Student's Dashboard
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VladLiviuAlexandru/Acadevo/dev/repo_assets/Acadevo_Logo.svg?token=GHSAT0AAAAAAB5SYBITX5LNWLIXXUYSC2QKZFSX5GQ" alt="Acadevo Logo" width="600" />
+  <img src="https://raw.githubusercontent.com/VladLiviuAlexandru/Acadevo/dev/repo_assets/Acadevo_Logo.svg?token=GHSAT0AAAAAACICOFHBMOUDNE3J4R3E7MHCZISRIPA" alt="Acadevo Logo" width="600" />
 </div>
 
 <div id="description">
